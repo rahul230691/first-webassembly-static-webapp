@@ -12,4 +12,8 @@
     <PackageReference Include="System.Net.Http.Json" Version="3.2.0-rc1.20217.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\azure-static-web-apps-witty-hill-0113bac1e.yml" />
+  </ItemGroup>
+
 </Project>
